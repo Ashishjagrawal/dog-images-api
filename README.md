@@ -1,5 +1,4 @@
 
-```markdown
 # Dog Picture API
 
 A simple RESTful API for managing dog pictures, including uploading, retrieving, updating, and deleting images. This API is built with Node.js, Express, and TypeScript, and includes Swagger documentation for easy integration.
@@ -29,7 +28,6 @@ A simple RESTful API for managing dog pictures, including uploading, retrieving,
 
    ```bash
    git clone <repository-url>
-   ```
 
 2. Navigate to the project directory:
 
