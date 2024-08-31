@@ -27,7 +27,7 @@ A simple RESTful API for managing dog pictures, including uploading, retrieving,
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ashishjagrawal/dog-images-api.git
 
 2. Navigate to the project directory:
 
