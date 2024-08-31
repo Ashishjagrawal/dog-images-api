@@ -11,7 +11,7 @@ let dogId: string;
 jest.setTimeout(300000);
 beforeAll(async () => {
     process.env.PORT = '7000';
-    await mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/dog-pics-test', {
+    await mongoose.connect(process.env.MONGO_URI_TESTS || 'mongodb://localhost:27017/dog-pics-test', {
         autoCreate: true,
     });
 
