@@ -54,7 +54,6 @@ A simple RESTful API for managing dog pictures, including uploading, retrieving,
    ```env
    PORT=9000
    MONGO_URI=<your-mongodb-connection-string>
-   MONGO_URI_TESTS=<your-mongodb-connection-string-for-unit-tests>
    JWT_SECRET=<your-jwt-secret>
    ```
 
